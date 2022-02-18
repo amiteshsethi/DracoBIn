@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(https://cdn.wallpapersafari.com/78/69/eiakU7.jpg);
+    background-size:cover;
+}
+.welcome-header{
+    color:rgb(61, 10, 119);
+}
+.draco-container{
+    text-align: center;
+    border: 1px solid black;
+    width:auto;
+}
+
+.draco-heading{
+    float:left;
+}
+.label-stylling{
+    font-size: x-large;
+    font-weight: 400;
+    color:rgb(0, 0, 0);
+}
